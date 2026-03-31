@@ -22,7 +22,7 @@ Execute the C Program for the desired output.
 
 ## C program that receives a message from message queue and display them
 // ipcprog.c - Combined Writer/Reader for System V Message Queue
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -94,7 +94,7 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-
+```
 
 
 
